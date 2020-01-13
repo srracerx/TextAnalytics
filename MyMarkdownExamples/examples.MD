@@ -35,3 +35,28 @@ Agora o poema do Anel (pois podemos usar quotes):
 >Na terra de Mordor, onde as Sombras se deitam.
 
 # Criando listas com Markdown
+
+Listas são legais. Existem três tipos delas:
+
+## Listas não ordenadas
+- primeiro elemento
+- dsdsadasdas
+- sdasdsadsadsa
++ dsdsadasds
++ sdsdsadsadasd
+   + sub-item 1
+   + coloque três espaços!
++ dsadasdasdasdasd
+* dsdsadsd
+* dsadsadsad
+* dadasdasdas
+## Listas ordenadas
+1. dsdsadasds
+2. sdsdsadsadasd
+   1. sub-item 1
+   2. coloque três espaços!
+3. dsadasdasdasdasd
+
+## Listas de tarefas
+- [ ] Tarefa 1
+- [X] Tarefa 2
