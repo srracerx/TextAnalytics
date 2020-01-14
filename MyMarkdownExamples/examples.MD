@@ -85,3 +85,14 @@ Imagens em uma tabela:
 Vídeo (clique na imagem para assistir):
 
 [![](http://img.youtube.com/vi/yURRmWtbTbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+# Blocos de Código
+
+Abaixo, um bloco de `código` em C:
+
+``` c
+int main(){
+   printf("Hello World!");
+   return 0;
+}
+```
