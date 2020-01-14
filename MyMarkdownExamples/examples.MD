@@ -73,3 +73,15 @@ Isso é um link:
 
 [Raindrops Keep Falling on my Head
 ](https://www.youtube.com/watch?v=sySlY1XKlhM)
+
+# Imagens e Vídeos Usando Markdown
+
+Imagens em uma tabela:
+
+ Coluna 1 | Coluna 2 | Coluna 3
+:---------|:----------:|---------:
+![Pois é](https://i.kym-cdn.com/photos/images/newsfeed/001/379/930/d6e.png) | ![](https://i.kym-cdn.com/entries/icons/original/000/026/008/Screen_Shot_2018-04-25_at_12.24.22_PM.png)
+
+Vídeo (clique na imagem para assistir):
+
+[![](http://img.youtube.com/vi/yURRmWtbTbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
