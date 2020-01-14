@@ -1,4 +1,4 @@
-# Formatando texto com Markdown
+# Formatando Texto com Markdown
 
 Podemos **deixar** coisas em __negrito__...
 
@@ -34,11 +34,11 @@ Agora o poema do Anel (pois podemos usar quotes):
 
 >Na terra de Mordor, onde as Sombras se deitam.
 
-# Criando listas com Markdown
+# Criando Listas com Markdown
 
 Listas são legais. Existem três tipos delas:
 
-## Listas não ordenadas
+## Listas Não Ordenadas
 - primeiro elemento
 - dsdsadasdas
 - sdasdsadsadsa
@@ -50,13 +50,26 @@ Listas são legais. Existem três tipos delas:
 * dsdsadsd
 * dsadsadsad
 * dadasdasdas
-## Listas ordenadas
+## Listas Ordenadas
 1. dsdsadasds
 2. sdsdsadsadasd
    1. sub-item 1
    2. coloque três espaços!
 3. dsadasdasdasdasd
 
-## Listas de tarefas
+## Listas de Tarefas
 - [ ] Tarefa 1
 - [X] Tarefa 2
+
+# Adicionando Tabelas e Links
+
+Isso  uma Tabela:
+
+Coluna 1 | Coluna 2 | Coluna 3
+:---------|:----------:|---------:
+elemento 1 | elemento 2 | elemento 3
+
+Isso é um link:
+
+[Raindrops Keep Falling on my Head
+](https://www.youtube.com/watch?v=sySlY1XKlhM)
